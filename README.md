@@ -1,2 +1,3 @@
-# delta-potential-with-interaction
-Physics simulation. System: two particles in a box with Dirac's delta potential and quadratic interaction.
+# Physics simulation
+## System:
+Two particles in a box with Dirac's delta potential and quadratic interaction.
