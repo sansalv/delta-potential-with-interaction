@@ -4,7 +4,7 @@
 
 Two particles in a box with Dirac's delta potential and harmonic quadratic interaction. The Hamiltonian (in natural units) is
 $$H(x_1, x_2) = \frac12 p^2_1+\frac12 p^2_2+v_1\delta(x_1)+v_2\delta(x_2)+V_\text{int}(x_1-x_2)$$
-where the interaction potential is quadratic
+where the interaction potential is harmonic quadratic potential (attractive or repulsive) between the two particles
 $$V_\text{int}(x_1-x_2) = \frac12 k (x_1-x_2)^2.$$
 Few years ago, I calculated the analytical result for a particle in a box with Dirac's delta potential (which is the pdf in Finnish). Without the interaction, two particles separate to same solutions, obliously. But with quadratic interactions, analytical result seems non-trivial to calculate.
 
