@@ -11,7 +11,7 @@ Few years ago, I calculated the analytical result for a particle in a box with D
 This is why me and @Jesse Huhtala (PhD student from theoretical physics department at the University of Turku) worked on this numerical simulation. Energy modes are quite simple to solve numerically (These energy eigenstate solutions are plotted in this remote). We are also interested in the time dependend Gaussian wave packet resonances but they are less trivial to simulate. The code simulating these states is not here.
 
 Sample:
-First energy eigenstate wave function, where
+First energy eigenstate wave function $\psi(x_1,x_2)$, where
 $v_1<0, \quad v_2>0, \quad k>0$.
 
 ![alt text](https://github.com/sansalv/delta-potential-with-interaction/blob/main/plots/test_with_delta_and_interaction/plot1.png?raw=true)
